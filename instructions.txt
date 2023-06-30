@@ -1,0 +1,5 @@
+make sure you have permission 
+run as root
+make sure you have permission
+make sure you change the script to your port (wlan0/eth0)
+make sure you have permission 
